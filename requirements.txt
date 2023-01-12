@@ -1,0 +1,8 @@
+django==3.2.16
+django-environ==0.9.0 #guardar variables keys importantes
+django-cors-headers==3.13.0 #esto permite la comunicacion backend-frontend con esto configuro quien puede acceder al API
+djangorestframework==3.14.0
+psycopg2==2.9.5
+Pillow==9.3.0
+django-storages==1.13.1 #para guardar en AWS o alguna otra
+django-ckeditor==6.3.2 #crear contenido de manera mas rica, texto en negrita, underline, italica, etc
